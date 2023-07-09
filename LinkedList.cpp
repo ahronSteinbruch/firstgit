@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdbool.h>
 #include <stdio.h>
-
+//jyfyrconecticjhjschb
 Link* List_Create()
 {
 	Link* anchor = (Link *) malloc(sizeof(Link));
