@@ -13,7 +13,7 @@
 		this->age = age;
 		this->marks = nullptr;
 		this->numOfTests = 0;
-	}
+	 }
 //
 	 Student:: Student() {
 		const char* fNameJune = "june";

@@ -1,1 +1,2 @@
 C:\Users\user\Desktop\butPractest\a2\x64\Debug\a2.exe
+C:\Users\user\Desktop\firstgit\x64\Debug\a2.exe
